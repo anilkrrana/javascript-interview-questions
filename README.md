@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@AnilRana](https://www.linkedin.com/in/anil-rana-09a283227/) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/anilkrrana/javascript-interview-questions/actions).
+> Click :star:if you like the project and follow [@AnilRana](https://www.linkedin.com/in/anil-rana-09a283227/) for more updates. Connect with me [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/anilkrrana/javascript-interview-questions/actions).
 
 ---
 
