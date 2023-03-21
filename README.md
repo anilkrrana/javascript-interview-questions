@@ -1,7 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@Anilrana]
-(https://www.linkedin.com/in/anil-rana-09a283227/) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/anilkrrana/javascript-interview-questions/actions).
+> Click :star:if you like the project and follow [@AnilRana](https://www.linkedin.com/in/anil-rana-09a283227/) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/anilkrrana/javascript-interview-questions/actions).
 
 ---
 
@@ -17,29 +16,19 @@
 
 ---
 
-
 ### Table of Contents
 
-| No. | Questions                                                                                                              |
+| No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript)                                        
-    |
-| 2   | [What is prototype chain](#what-is-a-prototype-chain)                                                                                                             
-    |
-| 3   | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)                                                       
-    |
-| 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                  
-   |
-| 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                                  
-  |
-| 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                               
-  |
-| 7   | [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                              
- |
-| 8   | [How do you compare Object and Map](#how-do-you-compare-object-and-map)                                                                         
-                  |
-| 9   | [What is the difference between == and === operators](#what-is-the-difference-between--and--operators)                                                          
-  |
+| 1   | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript)                                         |
+| 2   | [What is prototype chain](#what-is-a-prototype-chain)                                                                                                             |
+| 3   | [What is the difference between Call, Apply and Bind](#what-is-the-difference-between-call-apply-and-bind)                                                        |
+| 4   | [What is JSON and its common operations](#what-is-json-and-its-common-operations)                                                                                 |
+| 5   | [What is the purpose of the array slice method](#what-is-the-purpose-of-the-array-slice-method)                                                                   |
+| 6   | [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method)                                                                 |
+| 7   | [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                               |
+| 8   | [How do you compare Object and Map](#how-do-you-compare-object-and-map)                                                                                           |
+| 9   | [What is the difference between == and === operators](#what-is-the-difference-between--and--operators)                                                            |
 | 10  | [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                         |
 | 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                                 |
 | 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                                 |
@@ -10826,6 +10815,3 @@ The questions provided in this repository are the summary of frequently asked qu
 Good luck with your interview 😊
 
 ---
-#   j a v a s c r i p t - i n t e r v i e w - q u e s t i o n s 
- 
- 
