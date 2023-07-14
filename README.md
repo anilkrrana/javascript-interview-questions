@@ -1,4 +1,4 @@
-# JavaScript Interview Questions & Answers
+# JavaScript Interview Questions & Ans.
 
 > Click :star:if you like the project and follow [@AnilRana](https://www.linkedin.com/in/anil-rana-09a283227/) for more updates. Connect with me [here](#coding-exercise).
 
@@ -170,7 +170,7 @@
 | 148 | [How do you define JSON arrays](#how-do-you-define-json-arrays)                                                                                                   |
 | 149 | [How do you generate random integers](#how-do-you-generate-random-integers)                                                                                       |
 | 150 | [Can you write a random integers function to print integers with in a range](#can-you-write-a-random-integers-function-to-print-integers-with-in-a-range)         |
-| 151 | [What is tree shaking](#what-is-tree-shaking)                                                                                                                     |
+| 151 | [What is tree shaking](#what is shaking).                                                                                                                    |
 | 152 | [What is the need of tree shaking](#what-is-the-need-of-tree-shaking)                                                                                             |
 | 153 | [Is it recommended to use eval](#is-it-recommended-to-use-eval)                                                                                                   |
 | 154 | [What is a Regular Expression](#what-is-a-regular-expression)                                                                                                     |
